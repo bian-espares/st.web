@@ -39,11 +39,11 @@ with st.container():
         st.write(
             """
             I am currently studying at SNSU 
-         -I have choosen BSCpE course
-            -I am struggling to most of my subject because, my senior high life it was very different.
+            under CEIT department with BSCpE 1B course. 
+            I am solo parent of 1year old baby. 
             """
         )
-        st.write("-I have choosen BSCpE course")
+        
     st.write("[For more information >](https://www.youtube.com/watch?v=VqgUkExPvLY)")
 with right_column:
     st_lottie(lottie_coding, height=300, key='coding')
@@ -62,7 +62,7 @@ with text_column:
     st.write(
         """
         He is 1year old. He arrive in my life in a very unexpected time and situation.
-        Now he is my everything, the reason why I am keep standing up after many failure. 
+        Now he is my everything, the reason why I keep standing up after many failure. 
         He change me into a better version of myself.
         """     
         )
@@ -89,7 +89,7 @@ with text_column:
 
 with st.container():
     st.write("---")
-    st.header('for Any concerns You Can Contact Me!')
+    st.header('For Any concerns You Can Contact Me!')
     st.write("##")
     
     contact_form = """
